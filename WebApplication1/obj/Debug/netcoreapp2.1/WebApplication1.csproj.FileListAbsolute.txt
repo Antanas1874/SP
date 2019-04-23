@@ -1,0 +1,72 @@
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.dll
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Dom\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+D:\Semestro Projektas\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+D:\Semestro Projektas\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+D:\Semestro Projektas\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+D:\Semestro Projektas\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+D:\Semestro Projektas\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\Semestro Projektas\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.dll
+D:\Semestro Projektas\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.input.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.output.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\Semestro Projektas\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+D:\SP\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+D:\SP\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+D:\SP\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+D:\SP\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+D:\SP\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\SP\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.dll
+D:\SP\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.input.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.output.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\SP\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
